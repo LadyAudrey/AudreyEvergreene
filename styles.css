@@ -5,18 +5,16 @@
     font-family: Corleone;
 }
 
-body {
-    background-image: url("https://imgur.com/a/UiKnqw4");
-}
-
 h1 {
     font-family: Corleone;
 }
 
-.portrait {
-    width: 100px;
+.title {
+    color:yellow;
+    align-items: center;
 }
 
-.title {
-    color:red;
+.main {
+    max-width: 100%;
+    background-image: url("/home/evergreen/adulting/coding/ProSite/photos/1.png");
 }
