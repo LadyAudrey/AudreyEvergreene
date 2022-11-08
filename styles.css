@@ -25,7 +25,7 @@ p {
 
 body{
     background-attachment: scroll;
-    background-image: url("/home/evergreen/adulting/coding/ProSite/photos/1.png");
+    background-image: url("photos/1.png");
     background-size: cover;
 }
 
